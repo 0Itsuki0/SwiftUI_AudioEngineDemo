@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct AVAudioEngineDemoApp: App {
+    private let manager = AudioEngineManager()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationStack {
+                ContentView()
+                    .environment(manager)
+
+            }
         }
     }
 }
