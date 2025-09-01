@@ -9,7 +9,7 @@ Specifically, this demo includes the following.
 - Add Effect and Use Mixer
 
 For more details, please check out
-- [SwiftUI: AVAudioEngine With Swift Concurrency]()
+- [SwiftUI: AVAudioEngine With Swift Concurrency](https://medium.com/@itsuki.enjoy/swiftui-avaudioengine-with-swift-concurrency-a231c31ad509)
 - [Swift AVAudioEngine: All Those Crashes, Errors I have encountered! The Reasons & Solutions!](https://medium.com/@itsuki.enjoy/swift-avaudioengine-all-those-crashes-errors-i-have-encountered-the-reasons-solutions-e9444c7b4374)
 
 
